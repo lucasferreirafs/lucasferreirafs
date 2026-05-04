@@ -56,8 +56,8 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas e aprofundando meus c
 ## 📊 GitHub Status
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasferreirafs&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreirafs&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucasferreirafs&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreirafs&layout=compact&theme=tokyonight" />
 </p>
 
 ---
