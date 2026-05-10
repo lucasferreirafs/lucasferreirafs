@@ -1,7 +1,7 @@
 # Oi 👋, Eu sou Lucas Ferreira
 
 🚀 **Full Stack Developer | JavaScript/TypeScript (Next.js • Node.js • React)**  
-🇧🇷 Brasil
+Brasil
 
 Desenvolvedor Full Stack focado em construir aplicações web modernas, escaláveis e de alto desempenho. Tenho um compromisso contínuo com a **arquitetura de software**, **código limpo** e a entrega de soluções que resolvam problemas reais.
 
@@ -56,7 +56,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas e aprofundando meus c
 ## 📊 GitHub Status
 
 ![Stats](https://ghstats.dev/api/card?username=lucasferreirafs&theme=github-dark)
-![Top Languages](https://ghstats.dev/api/top-langs?username=SEU_USUARIO&layout=compact&theme=github-dark)
+![Top Languages](https://ghstats.dev/api/top-langs?username=lucasferreirafs&layout=compact&theme=github-dark)
 
 ---
 
