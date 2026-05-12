@@ -9,7 +9,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas e aprofundando meus c
 
 ---
 
-## 🌐 Como me encontrar
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://linkedin.com/in/lucas-ferreira-35aa15380">
