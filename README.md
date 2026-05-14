@@ -55,8 +55,15 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas e aprofundando meus c
 
 ## 📊 GitHub Status
 
-![Stats](https://ghstats.dev/api/card?username=lucasferreirafs&theme=github-dark)
-![Top Languages](https://ghstats.dev/api/top-langs?username=lucasferreirafs&layout=compact&theme=github-dark)
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasferreirafs&theme=tokyonight" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasferreirafs&theme=tokyonight" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasferreirafs&theme=tokyonight" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasferreirafs&theme=tokyonight&utcOffset=-3" />
+
+</div>
 
 ---
 
